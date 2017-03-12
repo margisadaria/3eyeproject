@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Gridview</string>
+    <string-array name="name1">
+        <item>call</item>
+        <item>alaram</item>
+        <item>alarmlist</item>
+        <item>call_tone</item>
+        <item>back_arrow</item>
+        <item>compose_msg</item>
+        <item>contact</item>
+        <item>create_con</item>
+        <item>create_alarm</item>
+    </string-array>
+    <string-array name="call">
+        <item>call1</item>
+        <item>make_call</item>
+        <item>delete_call</item>
+        <item>create_alarm</item>
+        <item>Back</item>
+    </string-array>
+
+
+</resources>
